@@ -1,0 +1,43 @@
+{
+  "series": {
+    "5": "Gamatoto Area",
+    "16": "Legend Quest",
+    "18": "Slots / Scratcher",
+    "19": "Talking Cat Event",
+    "28": "True Form Unlock",
+    "33": "Labyrinth"
+  },
+  "events": {
+    "50": "Line Up Sale",
+    "51": "EX Unit Half Discount",
+    "52": "XP Upgrade Cost Half Discount",
+    "100": "EoC Treasure Festival",
+    "101": "ItF Treasure Festival",
+    "102": "Weekend Stage Half Energy Cost",
+    "104": "CotC Treasure Festival",
+    "105": "Gamatoto & Energy Recovery Advertisement",
+    "106": "Gold Pass Purchase",
+    "107": "Gamatoto Shrine",
+    "108": "2x XP Advertisement",
+    "109": "Stage Continue Advertisement",
+    "110": "Lucky Ticket Advertisement",
+    "111": "Item Shop 10k XP Advertisement",
+    "700": "Catamin A Discount",
+    "701": "Catamin B Discount",
+    "702": "Catamin C Discount",
+    "3000": "EoC Ch.1 Half Energy Cost",
+    "3001": "EoC Ch.2 Half Energy Cost",
+    "3002": "EoC Ch.3 Half Energy Cost",
+    "3003": "Itf Ch.1 Half Energy Cost",
+    "3004": "Itf Ch.2 Half Energy Cost",
+    "3005": "Itf Ch.3 Half Energy Cost",
+    "3006": "CotC Ch.1 Half Energy Cost",
+    "3007": "CotC Ch.2 Half Energy Cost",
+    "3008": "CotC Ch.3 Half Energy Cost",
+    "18000": "Wild Cat Slots",
+    "18100": "Summer Break Scratch",
+    "18101": "New Year Scratch",
+    "18102": "White Day Scratch",
+    "18103": "Li'l Scratch"
+  }
+}
